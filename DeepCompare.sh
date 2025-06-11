@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Usage: ./compare_dirs.sh /path/to/dir1 /path/to/dir2
+# Usage: ./DeepCompare.sh /path/to/dir1 /path/to/dir2
 
 # set -e
 
